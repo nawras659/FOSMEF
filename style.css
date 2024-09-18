@@ -1,0 +1,58 @@
+header {
+	text-align: center;
+}
+
+
+
+
+div#content div {
+	display:inline-block ;
+	width: 48%;
+}
+div#content div.leftbox {
+	background-color: white;
+	vertical-align: top;
+
+}
+div#content div.leftbox h3,p,iframe {
+	margin: 40px;
+}
+div#content div.rightbox {
+	background-color:white;
+}
+
+
+
+nav.menu-nav ul li.btn {
+	display: inline-block;
+   list-style-type: none;
+   margin-right: 200px;
+
+}
+
+nav.menu-nav ul li.btn a{
+	color:#74bbe4;
+	background-color:white ;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 50px;
+}
+nav.menu-nav ul li.btn:hover a{
+	color:white ;
+	background-color:#74bbe4 ;
+	transition: 0,3s all;
+}
+header {
+	background-color: ;
+}
+
+h1{
+ color:black;
+ font-size:50px;
+}
+body{
+	background-color:#74bbe4;
+}
+h2 {
+	text-align: center;
+}
